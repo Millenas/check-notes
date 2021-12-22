@@ -4,3 +4,12 @@ Dias: 15 e 16
 15 de dezembro de 2021, 1:00pm – 16 de dezembro de 2021, 1:15pm · 
 Informações de participação do Google Meet
 Link da videochamada: https://meet.google.com/nxh-qgnt-uvz
+
+15/12
+Daily realizada às 13:04, estavam presentes: Gabriel Ramos e Millena Sangela (Foto abaixo da tela do meet)
+- Gabriel Ramos e Millena Sangela não tiveram ou estão tendo nenhum impedimento para realizar suas tarefas
+Após, decidimos que vamos adicionar ao backlog da documentação:
+- Plano de Teste
+
+Além disso, também adicionamos os requisitos do App, uma vez que o sistema web não é componente único, pois existirá um app (Android ou iOS) consumindo dados desse site.
+Os requisitos funcionais do sistema web não serão os mesmo do app.
