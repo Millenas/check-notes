@@ -1,0 +1,4 @@
+Diagramas apresentados na documentação de requisitos são:
+1. Caso de uso
+2. Diagrama de Classes
+3. Diagrama de Sequência
