@@ -8,7 +8,7 @@ module.exports = app => {
             return res.status(400).send('Dados incompletos')
         }
 
-        const user = await app.db('taskers')
+        const user = await app.db('users')
             .whereRaw("LOWER(email) = LOWER(?)", req.body.email)
             .first()
 
