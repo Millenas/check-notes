@@ -11,7 +11,7 @@ module.exports = app => {
         obterHash(req.body.password, hash => {
             const password = hash
 
-            app.db('users')
+            app.db('taskers')
                 .insert({ 
                     name: req.body.name,
                     email: req.body.email.toLowerCase(),

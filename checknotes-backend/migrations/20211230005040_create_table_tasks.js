@@ -6,8 +6,8 @@ exports.up = function (knex, Promise) {
         table.boolean('status').notNull()
         table.datetime('estimateAt')
         table.datetime('doneAt')
-        table.integer('listId').references('id')
-            .inTable('lists').notNull()
+        table.integer('taskId').references('id')
+            .inTable('taskers').notNull()
     })
 };
 
